@@ -1,0 +1,54 @@
+.body {
+  font-family: "Lora", serif;
+  font-size: 1rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+.estado {
+  font-size: 0.75rem;
+}
+
+.form {
+  border: black;
+  display: flex;
+  padding: 3rem;
+  margin: auto;
+  margin-top: 3rem;
+  justify-content: center;
+  width: 50rem;
+}
+
+.description {
+  font-size: 33px;
+  font-family: Lora;
+  font-weight: 400;
+  line-height: 44px;
+  color: #222;
+  margin-bottom: 1rem;
+  margin-top: 3rem;
+  text-align: center;
+  transform: translateY(-10.45px);
+}
+
+.flexbox {
+  display: inline-block;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.footer {
+  font-family: "Merriweather", serif;
+  padding-top: 30px;
+  color: aliceblue;
+  background-color: rgb(105, 85, 30);
+}
+
+.social-icon {
+  font-size: 3rem;
+  color: bisque;
+  margin: 14px;
+  text-decoration: none;
+}
